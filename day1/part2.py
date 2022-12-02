@@ -1,6 +1,6 @@
 from functools import reduce
 
-with open('day1_input.txt') as f:
+with open('input.txt') as f:
     lines = f.readlines()
     max_three = [0,0,0]
     curr = 0
